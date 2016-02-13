@@ -1,6 +1,6 @@
 # author mohamed fawzy
 # advanced parsing file
-# remove puncation and count words in file then return result using dictionary with hash table algorithm
+# remove punctuation and count words in file then return result using dictionary with hash table algorithm
 import string
 fname = raw_input('Enter file name: ')
 try:
